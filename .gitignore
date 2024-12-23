@@ -1,0 +1,7 @@
+/test/
+/train/
+/Smart attendance dataset/
+/TrainingImage/
+/attendance_model.h5
+/attendance_model.keras
+/attendance_model_with_augmentation.keras
